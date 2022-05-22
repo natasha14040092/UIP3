@@ -62,4 +62,4 @@ Markdown поддерживает упорядоченные (нумерован
 ![Альтернативный текст](https://anivisual.net/avatar/01/86/32217419.jpg)
 
 ## Связь с другим файлом (заголовок второго уровня)
-[a relative link](other_file.md)
+[ссылка на other_file.md](other_file.md)
